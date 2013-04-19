@@ -326,3 +326,4 @@ registries, and let them declared manually into the static HTML template.
 .. note:: if you use a responsiveCSS framework, it is often useful to deactivate the Plone ``mobile.css`` file which might produces bad formatting (typically with Boostrap). To do so, you add the following to ``cssregistry.xml``::
 
         <stylesheet id="mobile.css" enabled="False" />
+
